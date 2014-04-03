@@ -1,0 +1,251 @@
+NAME,DESC,DOLLARS,UNITS,MARGIN,ORGANIC_GROWTH,INITIAL,PRIORITY
+hand soap,hand soap description,78792.38,32733,0.93,-0.65,0.46,3
+shampoo,shampoo description,315687.04,90433,0.76,0.63,0.12,2
+conditioner,conditioner description,477923.77,64189,0.83,-0.79,0.42,5
+dry conditioner,dry conditioner description,565087.79,77238,0.03,0.98,0.3,9
+facial tissue,facial tissue description,570558.86,87095,0.48,-0.86,0.14,1
+toothpaste,toothpaste description,111683.4,35985,0.76,0.34,0.54,4
+baby wipes,baby wipes description,563762.95,89941,0.23,0.45,0.26,1
+baby oil,baby oil description,193753.67,89480,0.19,-0.3,0.68,9
+face lotion,face lotion description,384588.68,62620,0.51,-0.5,0.48,5
+body lotion,body lotion description,291102.38,39227,0.96,0.5,0.8,6
+self tanner,self tanner description,158007.28,28071,0.76,0.49,0.04,4
+cotton balls,cotton balls description,196652.76,52911,0.96,-0.12,0.87,4
+cotton pads,cotton pads description,461737.62,70765,0.18,-0.77,0.4,7
+men's deodorant,men's deodorant description,462950.82,61764,0.63,0.59,0.27,5
+women's deodorant,women's deodorant description,528011.77,78080,0.94,0.42,0.1,2
+moisturizer,moisturizer description,118630.41,16400,0.02,-0.71,0.39,7
+cleansing creme,cleansing creme description,111687.09,44198,0.65,-0.33,0.23,8
+makeup remover,makeup remover description,63993.86,25392,0.78,-0.19,0.73,2
+eye shadow,eye shadow description,185027.05,49814,0.5,0.18,0.17,6
+blush,blush description,214881.05,94722,0.86,0.49,0.27,2
+bronzer,bronzer description,190728.76,29140,0.4,0.11,0.15,5
+lipgloss,lipgloss description,239220.82,65300,0.7,-0.8,0.58,7
+mascara,mascara description,370087.57,72078,0.18,0.01,0.43,6
+eyeliner,eyeliner description,379432.01,54426,0.13,-0.92,0.95,8
+other make-up,other make-up description,127492.31,52890,0.46,-0.41,0.24,9
+lipstick,lipstick description,124487.25,19748,0.58,-0.64,0.52,7
+toiletries,toiletries description,226021.78,40891,0.28,-0.74,0.38,4
+perfumes ,perfumes  description,223174.76,41030,0.75,0.31,0.66,9
+body spray,body spray description,317158.69,40035,0.15,-0.31,0.81,7
+colognes,colognes description,169757.35,48855,0.97,0.18,0.03,2
+men's body spray,men's body spray description,145434.66,32060,0.93,0.98,0.04,2
+aspirin,aspirin description,251961.37,75428,0.99,0.21,0.42,4
+advil,advil description,376830.43,92848,0.31,-0.89,0.29,7
+other pain killers,other pain killers description,273043.38,63185,0.73,0.89,0.71,1
+cough remedies,cough remedies description,361324.54,47572,0.94,0.09,0.85,9
+cold remedies,cold remedies description,393659.6,53736,0.32,-0.86,0.25,6
+cough syrup,cough syrup description,273947.27,88180,0.63,-0.17,0.22,6
+throat drops,throat drops description,663940.05,95341,0.07,0.8,0.21,7
+bandages,bandages description,101444.17,15194,0.62,-0.81,0.46,6
+contact lens solution,contact lens solution description,446981.73,97734,0.05,-0.96,0.61,4
+digital cameras,digital cameras description,675782.33,85464,0.48,-0.12,0.64,8
+camcorders,camcorders description,199048.47,76702,0.24,-0.23,0.44,6
+memory cards,memory cards description,402278.32,92344,0.95,-0.61,0.04,8
+camera cases,camera cases description,323978.66,44299,0.86,-0.51,0.19,1
+photo albums,photo albums description,433797.99,58722,0.39,-0.26,0.32,4
+bracelets,bracelets description,144312.59,57782,0.75,0.33,0.03,4
+watches,watches description,274507.5,53840,0.61,0.89,0.05,2
+earrings,earrings description,243558.14,92216,0.45,0.53,0.68,3
+pendants,pendants description,150722.3,56391,0.24,0.18,0.75,8
+wristwatches,wristwatches description,81906.75,33117,0.7,0.23,0.11,5
+rings,rings description,345750.22,51957,0.46,0.31,0.76,6
+Birthday cards,Birthday cards description,428089.31,80626,0.85,-0.55,0.88,9
+Christmas cards,Christmas cards description,293116.28,77662,0.37,-0.44,0.76,1
+Valentines cards,Valentines cards description,242483.93,88368,0.47,-0.1,0.67,1
+Get Well cards,Get Well cards description,141840.06,26689,0.18,-0.35,0.7,7
+invitations,invitations description,342682.75,46110,0.55,0.37,0.91,1
+wrapping paper,wrapping paper description,262236.25,50194,0.93,-0.88,0.73,7
+tissue paper,tissue paper description,284689.39,74223,0.05,0.7,0.34,1
+bows,bows description,396197.95,51436,0.59,0.72,0.64,3
+ribbons,ribbons description,362625.12,67167,0.27,-0.98,0.38,4
+hardcover books,hardcover books description,324375.3,78182,0.94,0.97,0.21,8
+paperback books,paperback books description,223630.4,64145,0.84,-0.41,0.31,9
+magazines,magazines description,361731.08,82372,0.94,-0.62,0.57,8
+periodicals,periodicals description,193535.52,79525,0.15,0.12,0.31,9
+music CDs,music CDs description,176609.57,47727,0.84,0.06,0.89,9
+movie DVDs,movie DVDs description,222016.06,65946,0.47,0.35,0.76,2
+movie Blu-ray,movie Blu-ray description,126341.51,56614,0.86,0.97,0.4,3
+Playstation games,Playstation games description,516702.42,99190,0.99,-0.2,0.29,7
+Playstation consoles,Playstation consoles description,76898.33,38053,0.54,-0.1,0.63,8
+Playstation accessories,Playstation accessories description,185859.83,34246,0.78,0.49,0.64,2
+XBox games,XBox games description,73007.71,15444,0.81,-0.17,0.66,7
+XBox consoles,XBox consoles description,280195.06,50293,0.48,-0.88,0.07,2
+XBox accessories,XBox accessories description,391213.39,82347,0.64,0.82,0.41,9
+Nintendo games,Nintendo games description,474979.12,62271,0.8,0.57,0.32,9
+Nintendo consoles,Nintendo consoles description,562760.11,90769,0.14,-0.51,0.85,9
+Nintendo accessories,Nintendo accessories description,211918.78,71772,0.87,-0.04,0.12,6
+GameBoy games,GameBoy games description,184094.01,69883,0.09,-0.55,0.18,4
+GameBoy consoles,GameBoy consoles description,144258.59,69438,0.52,-0.79,0.44,9
+GameBoy accessories,GameBoy accessories description,112978.6,20864,0.28,0.92,0.86,9
+GameCube games,GameCube games description,79261.47,26118,0.21,0.1,0.61,3
+GameCube consoles,GameCube consoles description,412662.08,76550,0.65,-0.94,0.23,5
+GameCube accessories,GameCube accessories description,177286.44,41792,0.88,-0.83,0.88,7
+PC games,PC games description,465356.72,71711,0.95,-0.81,0.27,6
+PC consoles,PC consoles description,551835.27,83555,0.38,-0.71,0.34,6
+PC accessories,PC accessories description,77126.66,16622,0.31,-0.7,0.97,7
+soccer balls,soccer balls description,357397.07,74667,0.69,0.53,0.35,1
+hockey sticks,hockey sticks description,183412.5,24578,0.94,0.1,0.51,1
+baseball gloves,baseball gloves description,44519.53,11692,0.32,-0.79,0.31,4
+basketball,basketball description,92544.56,43415,0.41,0.74,0.26,4
+baseball,baseball description,243533.58,37770,0.1,0.58,0.76,8
+football,football description,251197.24,52176,0.76,0.12,0.95,9
+treadmills,treadmills description,643738.31,96847,0.96,-0.85,0.29,5
+ellipticals,ellipticals description,76338.7,33574,0.13,0.99,0.16,3
+steppers,steppers description,127625.64,59930,0.25,-0.57,0.85,8
+exercise bikes,exercise bikes description,304188.71,92399,0.14,-0.09,0.05,3
+yoga and pilates,yoga and pilates description,733196.35,96471,0.95,-0.57,0.97,7
+weight training,weight training description,111402.52,46498,0.66,-0.03,0.14,7
+boxing and martial arts,boxing and martial arts description,205731.32,84961,0.87,0.37,0.09,9
+air hockey,air hockey description,205926.3,51980,0.71,-0.79,0.84,8
+billards,billards description,94861.16,38323,0.53,0.04,0.83,3
+dart,dart description,225549.77,45524,0.98,-0.01,0.92,5
+foosball,foosball description,55925.98,25637,0.69,-0.32,0.53,9
+poker and casino,poker and casino description,278319.26,58404,0.47,-0.82,0.52,2
+table tennis,table tennis description,250953.17,64139,0.67,0.41,0.07,5
+skis,skis description,466193.19,61091,0.28,-0.15,0.07,8
+fishing tackle,fishing tackle description,276160.24,75766,0.64,-0.85,0.19,3
+camping equipment,camping equipment description,49352.6,17425,0.09,-0.06,0.25,4
+running shoes,running shoes description,234026.04,65895,0.75,0.75,0.37,5
+court shoes,court shoes description,100878.94,16279,0.6,0.31,0.22,4
+jerseys,jerseys description,85542.06,34457,0.91,-0.57,0.15,4
+team jackets,team jackets description,49162.4,11514,0.91,-0.97,0.51,3
+caps,caps description,375328.91,78851,0.46,-0.77,0.8,1
+ski outfits,ski outfits description,267734.38,43611,0.82,-0.7,0.48,2
+men's suits,men's suits description,33788.48,12118,0.82,-0.68,0.24,7
+men's jackets,men's jackets description,518323.64,93442,0.76,-0.23,0.66,7
+men's ties,men's ties description,196628.55,39575,0.95,0.61,0.94,4
+men's dress shirts,men's dress shirts description,176176.71,28709,0.38,0.02,0.07,4
+men's dress slacks,men's dress slacks description,442414.73,79309,0.48,0.37,0.96,7
+men's coats,men's coats description,114973.63,19170,0.23,-0.46,0.04,7
+men's shorts,men's shorts description,120634.04,29686,0.76,-0.92,0.57,7
+men's sweaters,men's sweaters description,271844.85,35332,0.09,-0.93,0.05,7
+men's jeans,men's jeans description,75381.93,20163,0.45,0.94,0.78,3
+men's t-shirts,men's t-shirts description,381370.72,63176,0.68,-0.95,0.65,2
+men's outdoor jackets,men's outdoor jackets description,356487.2,63314,0.54,0.19,0.46,6
+women's office wear,women's office wear description,720311.99,91813,0.44,-0.9,0.88,8
+women's suits,women's suits description,113628.5,31848,0.71,-0.14,0.38,5
+women's evening dresses,women's evening dresses description,330787,50502,0.37,0.67,0.53,2
+women's gowns,women's gowns description,323398.94,50207,0.85,0.38,0.52,9
+women's blazers,women's blazers description,161735.46,44560,0.1,-0.94,0.59,1
+women's coats,women's coats description,124190.93,53383,0.02,-0.39,0.14,4
+women's shorts,women's shorts description,45971.62,15700,0.94,-0.96,0.33,1
+women's sweaters,women's sweaters description,307965.86,95533,0.3,-0.95,0.22,5
+women's jeans,women's jeans description,206518.08,54361,0.34,0.18,0.33,6
+women's t-shirts,women's t-shirts description,75515.1,24772,0.04,0.63,0.67,1
+women's outdoor jackets,women's outdoor jackets description,314887.77,89260,0.16,-0.19,0.11,1
+baby clothes,baby clothes description,365685.29,96663,0.42,0.2,0.84,5
+kid's pants,kid's pants description,671850.31,88679,0.81,-0.89,0.93,4
+kid's tops,kid's tops description,717741.84,93851,0.29,0.56,0.45,4
+kid's sweaters,kid's sweaters description,126019.07,24360,0.53,-0.09,0.47,2
+kid's jackets,kid's jackets description,155913.44,23195,0.64,-0.9,0.66,7
+kid's snow suits,kid's snow suits description,90663.13,11383,0.53,-0.94,0.75,6
+socks,socks description,155278.51,38869,0.75,-0.58,0.28,7
+underwear,underwear description,496803.65,66306,0.19,0.29,0.68,3
+pantyhose,pantyhose description,272197.46,35810,0.2,0.72,0.99,7
+bras,bras description,436824.27,64372,0.35,-0.26,0.5,2
+intimate apparel,intimate apparel description,150548.57,40312,0.86,0.84,0.11,5
+slips,slips description,286970.65,78694,0.59,-0.66,0.89,3
+nightgowns,nightgowns description,176534.01,51188,0.44,0.38,0.26,1
+pajamas,pajamas description,206912.86,52664,0.69,0.09,0.56,4
+shoes,shoes description,220419.58,90384,0.54,0.06,0.74,2
+boots,boots description,231818.74,46421,0.74,0.76,0.88,2
+sandals,sandals description,240213.93,50827,0.19,-0.32,0.61,8
+bath and hand towels,bath and hand towels description,408508.44,56046,0.72,-0.82,0.14,8
+bath rugs,bath rugs description,42291.55,17376,0.04,-0.64,0.33,9
+beach towels,beach towels description,725515.85,95588,0.21,-0.88,0.59,3
+bath mirrors,bath mirrors description,410445.15,53997,0.91,-0.21,0.44,2
+bathroom scales,bathroom scales description,238895.21,90955,0.64,0.32,0.98,9
+sink faucets,sink faucets description,488316.67,77069,0.53,0.8,0.49,6
+face cloths,face cloths description,199004.14,26408,0.87,0.47,0.05,3
+placemats,placemats description,195941.69,81874,0.17,-0.28,0.07,2
+napkins,napkins description,389517.25,79319,0.63,-0.6,0.53,8
+tablecloths,tablecloths description,92266.53,28313,0.7,-0.95,0.51,7
+bed sheets,bed sheets description,154215.54,23942,0.37,-0.55,0.15,2
+pillowcases,pillowcases description,501652.63,64299,0.56,-0.41,0.61,8
+comforters,comforters description,656922.92,87199,0.75,0.81,0.25,1
+duvet covers,duvet covers description,545679.72,98744,0.72,-0.07,0.42,1
+mirrors,mirrors description,215202.32,35815,0.99,-0.65,0.05,8
+clocks,clocks description,316359.21,41525,0.79,0.53,0.19,8
+artwork,artwork description,80318.11,34559,0.03,-0.38,0.48,6
+lamps and lighting,lamps and lighting description,231596.24,56718,0.92,-0.79,0.63,8
+curtains ,curtains  description,338635.62,56744,0.83,-0.89,0.86,6
+blinds,blinds description,444758.83,96573,0.6,0.33,0.57,8
+cushions,cushions description,89606.17,21839,0.65,0.91,0.55,8
+vases,vases description,102752.62,20106,0.64,0.18,0.54,9
+candles and holders,candles and holders description,93567.7,36395,0.78,0.36,0.56,1
+floor mats,floor mats description,183000.27,45723,0.25,-0.01,0.16,7
+baskets,baskets description,523384.7,79598,0.81,0.75,0.91,7
+tables,tables description,259486.12,56567,0.2,-0.9,0.4,3
+chairs,chairs description,89790.4,22375,0.5,-0.42,0.77,5
+sofas,sofas description,298899.57,56941,0.23,-0.6,0.82,4
+beds,beds description,95659.58,22843,0.88,0.16,0.91,3
+dressers,dressers description,86590.57,26547,0.41,-0.12,0.75,8
+desks,desks description,185858.32,24027,0.76,0.04,0.25,9
+dishes,dishes description,207285.31,96190,0.17,0.89,0.22,4
+cutlery,cutlery description,203641,92516,0.61,-0.05,0.43,5
+kitchen gadgets,kitchen gadgets description,295508.28,84719,0.63,0.17,0.72,6
+carving knives,carving knives description,374549,93955,0.42,0.78,0.97,5
+serving trays,serving trays description,240497.84,70961,0.95,-0.65,0.62,1
+food storage containers,food storage containers description,104535.07,24005,0.58,-0.29,0.85,3
+electric kettles,electric kettles description,220792.71,36180,0.26,0.37,0.92,7
+blenders,blenders description,154172.78,21848,0.3,-0.18,0.49,9
+mixers,mixers description,145754.37,36042,0.35,-0.4,0.82,8
+toasters,toasters description,290344.12,54698,0.79,0.28,0.53,8
+shavers,shavers description,282108.38,46750,0.97,-0.18,0.87,1
+blow dryers,blow dryers description,264347.68,84522,0.68,-0.11,0.8,3
+refrigerators,refrigerators description,307396.09,51176,0.53,0.42,0.24,5
+stoves,stoves description,741075.85,99597,0.16,-0.04,0.32,6
+washers,washers description,111590.09,25942,0.37,0.15,0.8,1
+dryers,dryers description,445765.93,86879,0.47,0.75,0.38,5
+dishwashers,dishwashers description,519295.13,80153,0.78,0.27,0.94,2
+air conditioners,air conditioners description,170839.04,73475,0.02,-0.32,0.93,7
+air purifiers,air purifiers description,93627.95,23018,0.22,0.9,0.17,6
+fans,fans description,173199.77,46521,0.33,0.59,0.45,7
+dehumidifiers,dehumidifiers description,293337.77,46560,0.67,-0.09,0.3,1
+heaters,heaters description,78656.7,33567,0.5,-0.5,0.43,6
+sewing machines,sewing machines description,121882.68,41578,0.97,-0.64,0.92,6
+irons,irons description,62498.85,10862,0.28,0.15,0.16,1
+televisions,televisions description,755441.83,99624,0.68,-0.44,0.5,6
+DVD players,DVD players description,234877.43,66238,0.15,0.67,0.12,4
+stereo components,stereo components description,529626.11,76598,0.05,0.17,0.76,2
+CD players,CD players description,111899.31,28616,0.42,-0.48,0.41,6
+car audio,car audio description,412869.36,69523,0.09,-0.93,0.22,6
+MP3 player,MP3 player description,342363.07,66500,0.54,-0.03,0.54,9
+iPod,iPod description,226148.38,28681,0.26,0.46,0.13,2
+telephones,telephones description,380228.04,84099,0.98,-0.82,0.48,6
+cell phones,cell phones description,472029.13,62611,0.03,0.16,0.14,1
+smartphones,smartphones description,198431.51,52715,0.84,-0.36,0.71,8
+Bluetooth,Bluetooth description,45971.14,17119,0.44,-0.55,0.71,1
+chargers,chargers description,82563.02,36974,0.6,0.14,0.31,2
+Desktop or laptop computers,Desktop or laptop computers description,253306.36,41755,0.7,0.16,0.69,5
+iPad or other tablet,iPad or other tablet description,474732.06,90333,0.05,-0.26,0.3,2
+printers,printers description,590333.56,97184,0.32,0.44,0.88,7
+monitors,monitors description,69302.99,26948,0.4,-0.86,0.37,5
+cables,cables description,180159.27,33609,0.96,-0.82,0.94,5
+blank CDs and DVDs,blank CDs and DVDs description,258164.74,38207,0.04,-0.63,0.44,7
+pens,pens description,496229.8,86555,0.8,0.09,0.56,5
+paper,paper description,211427.93,52889,0.55,-0.49,0.7,3
+calculators,calculators description,340371.2,80729,0.75,-0.6,0.35,4
+file folders,file folders description,105022.82,15217,0.38,-0.31,0.92,7
+binders,binders description,296964.72,65427,0.17,0.23,0.24,3
+indoor and outdoor paint and stain,indoor and outdoor paint and stain description,180498.64,35322,0.78,-0.47,0.26,2
+wallpaper,wallpaper description,370428.05,89457,0.73,-0.75,0.89,6
+brushes,brushes description,152452.03,46875,0.64,-0.85,0.49,2
+stencil kits,stencil kits description,227746.82,54912,0.58,0.56,0.62,5
+nails and screws,nails and screws description,33290.26,11773,0.76,0.13,0.64,5
+hand and power tools,hand and power tools description,325050.29,71290,0.18,0.67,0.15,1
+outdoor equipment,outdoor equipment description,70546.09,13661,0.63,-0.16,0.13,5
+mail boxes,mail boxes description,118458.31,17906,0.51,0.73,0.63,8
+plumbing and electrical supplies,plumbing and electrical supplies description,480995.77,65703,0.11,0.99,0.31,6
+door locks,door locks description,463220.02,65529,0.18,0.05,0.5,4
+water hose,water hose description,400001.8,68729,0.96,-0.35,0.07,5
+soil,soil description,95422.55,16830,0.65,-0.14,0.62,3
+fertilizer,fertilizer description,490761.41,76461,0.89,0.38,0.42,3
+gardening tools,gardening tools description,185499.3,28091,0.26,0.53,0.16,1
+seeds,seeds description,456966.02,74737,0.43,-0.72,0.08,3
+bulbs,bulbs description,208212.99,99852,0.47,-0.3,0.2,7
+patio furniture,patio furniture description,393562.16,50799,0.11,-0.72,0.5,3
+rakes,rakes description,339557.27,75969,0.43,0.44,0.52,3
+snow shovels,snow shovels description,161134.53,42806,0.11,0.62,0.24,2
+sidewalk salt,sidewalk salt description,514590.11,92717,0.51,0.46,0.81,5
